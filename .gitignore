@@ -1,4 +1,4 @@
-result/*
+result/
 # Local Terraform directories
 .terraform/
 .terraform.lock.hcl
